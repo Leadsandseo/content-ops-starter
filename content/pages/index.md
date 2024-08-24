@@ -13,15 +13,6 @@ sections:
       Digital, de la parte de Leads and seo la mejor [agencia de marketing
       Digital en Barcelona](https://www.leadsandseo.com/)
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
