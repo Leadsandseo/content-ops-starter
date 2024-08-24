@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Aquí hab
+      text: Aquí hablaremos sobre marketing Digital
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
