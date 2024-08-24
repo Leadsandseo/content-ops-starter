@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: 'Si te gusta el Marketing Digital, estás en el lugar correcto!'
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      En este espacio sugeriremos los mejores Blogs que hablen sobre Marketing
+      Digital, de la parte de Leads and seo la mejor [agencia de marketing
+      Digital en Barcelona](https://www.leadsandseo.com/)
     actions:
       - label: Get started
         altText: ''
