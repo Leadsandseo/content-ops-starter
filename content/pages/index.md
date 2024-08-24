@@ -45,7 +45,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: ¿Sabes cuales son las mejores estrategias de marketing digital del 2024?
       color: text-dark
       styles:
         self:
