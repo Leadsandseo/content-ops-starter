@@ -54,13 +54,11 @@ sections:
     subtitle: Puedes averiguarlo justo aqui!
     text: >
       Las mejores [estrategias de marketing
-      digital](https://www.leadsandseo.com/7-estrategias-de-marketing-digital-que-necesitas-conocer/),
+      digital](https://leadsandseo.es/7-estrategias-de-marketing-digital-que-necesitas-conocer/),
       encuéntralas en el link de este párrafo!
 
 
       Antes de eso, sabes lo que es el marketing digital? Te lo explicamos aqui!
-
-
 
 
       El marketing digital se ha convertido en una herramienta esencial para
