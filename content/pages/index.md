@@ -11,7 +11,7 @@ sections:
     text: >
       En este espacio sugeriremos los mejores Blogs que hablen sobre Marketing
       Digital, de la parte de Leads and seo la mejor [agencia de marketing
-      Digital en Barcelona](https://www.leadsandseo.com/)
+      Digital en Barcelona](https://leadsandseo.es/)
     actions: []
     media:
       url: /images/main-hero.svg
